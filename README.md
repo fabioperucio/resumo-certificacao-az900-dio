@@ -30,5 +30,33 @@
 * As organizações controlam a segurança, a conformidade e os requisitos legais
 * Fornece maior flexibilidade
 
+  ### Comparação entre CapEx e OpEx
 
+##### Capex - Despesas de capital
+* O gasto inicial do dinheiro em Infraestrutura física
+* As despesas do Capex tem um valor que se reduz com o tempo.
+
+###### Opex - Despesas Operacionais
++ Gastar com produtos e serviços conforme necessário, pagamento conforme uso
++ Seja cobrado imediatamente
+
+### Modelo baseado em consumo
+Os provedores de serviço em nuvem operam em um modelo baseado no consumo, o que significa que os usuários finais pagam somente pelos recursos que usam.
++ Melhor previsão de custos
++ São fornecidos preços para recursos e serviços individuais
++ A cobrança é feita com base no seu uso real
+
+  
+## Módulo 1 - Conceito de Nuvem
+
+##### Benefícios da Nuvem
+
+1. Alta Disponibilidade
+- Garantir a melhor perspectiva ao cliente
+- SLA - Service Level Agreement (Acordo de Nível de Serviço) - Disponibilidade de 99%, 99,9%, 99,95% - Se esse SLA não for cumprido, o cliente recebe créditos referente ao período não utilizado.
+
+A alta disponibilidade se concentra em garantir a disponibilidade máxima, independentemente de interrupções ou eventos que possam ocorrer.
+
+2. Escalabilidade e Elasticidade
+- A escabilidade refere-se à capacidade de ajustar recursos para atender a mudança
 
